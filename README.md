@@ -1,0 +1,1 @@
+This project builds a Random Forest machine learning model to classify individuals as risky or good based on income data. It includes EDA, data preprocessing, model training, and evaluation following the complete ML life cycle.
